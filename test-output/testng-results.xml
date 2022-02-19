@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="76" started-at="2022-02-19T11:57:43Z" finished-at="2022-02-19T11:57:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="76" started-at="2022-02-19T11:57:43Z" finished-at="2022-02-19T11:57:43Z">
+      <class name="com.testng.SampleClass3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testng.SampleClass3@1a968a59]" name="beforeClass" is-config="true" duration-ms="22" started-at="2022-02-19T11:57:43Z" finished-at="2022-02-19T11:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testdata1()[pri:1, instance:com.testng.SampleClass3@1a968a59]" name="testdata1" duration-ms="8" started-at="2022-02-19T11:57:43Z" finished-at="2022-02-19T11:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata1 -->
+        <test-method status="PASS" signature="testdat()[pri:0, instance:com.testng.SampleClass3@1a968a59]" name="testdat" is-config="true" duration-ms="0" started-at="2022-02-19T11:57:43Z" finished-at="2022-02-19T11:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdat -->
+        <test-method status="PASS" signature="testdat()[pri:0, instance:com.testng.SampleClass3@1a968a59]" name="testdat" is-config="true" duration-ms="1" started-at="2022-02-19T11:57:43Z" finished-at="2022-02-19T11:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdat -->
+        <test-method status="PASS" signature="testdata2()[pri:2, instance:com.testng.SampleClass3@1a968a59]" name="testdata2" duration-ms="4" started-at="2022-02-19T11:57:43Z" finished-at="2022-02-19T11:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata2 -->
+        <test-method status="PASS" signature="afteClass()[pri:0, instance:com.testng.SampleClass3@1a968a59]" name="afteClass" is-config="true" duration-ms="1" started-at="2022-02-19T11:57:43Z" finished-at="2022-02-19T11:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afteClass -->
+      </class> <!-- com.testng.SampleClass3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
