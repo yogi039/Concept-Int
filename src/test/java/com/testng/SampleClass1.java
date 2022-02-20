@@ -16,6 +16,7 @@ public class SampleClass1 {
 	@BeforeMethod
 	public void testdat() {
 		System.out.println("Before method");
+		System.out.println("hello");
 }
 }
 
